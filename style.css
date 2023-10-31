@@ -24,7 +24,7 @@
     }
     
     
-    nav a {
+    nav a:hover {
     text-transform: uppercase;
     color: white;
     font-size: 30px;
@@ -33,6 +33,9 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
+    body {
+        background-color: rgb(63, 94, 251);
+    }
     
     nav a:hover {
         color: rgb(0, 222, 204);
